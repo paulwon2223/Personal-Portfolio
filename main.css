@@ -321,12 +321,16 @@ h3 {
 
 .project {
     height: 85vh;
-    background-color: #F9F8F8;
+    background-color: white;
     position: relative;
     display: flex;
     justify-content: flex-end;
     padding-right: 220px;
     padding-top: 100px;
+}
+
+.card-title {
+    font-size: 30px;
 }
 
 h4 {
